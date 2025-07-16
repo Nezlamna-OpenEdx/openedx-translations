@@ -12651,7 +12651,7 @@ msgstr "Розпочинається"
 
 #: lms/templates/course.html:31
 msgid "Starts: {date}"
-msgstr "Починається: {date}"
+msgstr "Починається, K: {date}"
 
 #: lms/templates/courses_list.html:22
 msgid "View all Courses"
