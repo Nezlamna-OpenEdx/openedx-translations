@@ -13643,6 +13643,10 @@ msgstr "Показати статуси відправлених на перев
 msgid "My Courses"
 msgstr "Мої курси"
 
+#: lms/templates/learner_dashboard/_dashboard_navigation_courses.html:7
+msgid "Courses"
+msgstr "Курси"
+
 #: lms/templates/modal/_modal-settings-language.html:21
 msgid "Change Preferred Language"
 msgstr "Змінити бажану мову"
