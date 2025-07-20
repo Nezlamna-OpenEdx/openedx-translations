@@ -12651,7 +12651,7 @@ msgstr "Розпочинається"
 
 #: lms/templates/course.html:31
 msgid "Starts: {date}"
-msgstr "Починається, K: {date}"
+msgstr "Починається: {date}"
 
 #: lms/templates/courses_list.html:22
 msgid "View all Courses"
@@ -13744,3 +13744,11 @@ msgstr "Додайте текст Авторського Права сюди!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Редактор коду"
+
+#: lms/templates/courseware/course_about.html:173
+msgid "Classes Start"
+msgstr "Початок занять"
+
+#: lms/templates/courseware/course_about.html:77
+msgid "You are enrolled in this course"
+msgstr "Ви зараховані на цей курс"
