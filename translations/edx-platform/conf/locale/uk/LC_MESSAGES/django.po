@@ -13758,3 +13758,36 @@ msgid ""
 "After the course ends, the course content will be archived and no longer "
 "active."
 msgstr "Після завершення курсу вміст курсу буде заархівовано та більше не буде активним."
+
+#: lms/djangoapps/courseware/date_summary.py:281
+msgid "Course ends"
+msgstr "Курс закінчується"
+
+#: lms/djangoapps/courseware/date_summary.py:273
+msgid "Course starts"
+msgstr "Початок курсу"
+
+#: templates/legacy/staff_area/oa_staff_area.html:113
+msgid "Dates"
+msgstr "Дати"
+
+#: lms/djangoapps/course_home_api/outline/serializers.py:33
+#, python-brace-format
+msgid "({number} Question)"
+msgid_plural "({number} Questions)"
+msgstr[0] "({number} тестування)"
+msgstr[1] "({number} тестування)"
+
+#. Translators: {earned} is the number of points earned. {possible} is the
+#. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
+#. points will always be at least 1. We pluralize based on the total number of
+#. points (example: 0/1 point; 1/2 points);
+#: xmodule/js/src/capa/display.js:269
+msgid "{earned}/{possible} point (graded)"
+msgid_plural "{earned}/{possible} points (graded)"
+msgstr[0] "{earned}/{possible} бал (оцінений)"
+msgstr[1] "{earned}/{possible} балів (оцінений)"
+
+#: lms/djangoapps/courseware/date_summary.py:273
+msgid "Course starts"
+msgstr ""
