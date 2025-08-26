@@ -3510,6 +3510,10 @@ msgstr " (Самостійні курси) Закінчилися {end}"
 msgid "Starts {start}"
 msgstr "Починається {start}"
 
+#: lms/static/js/learner_dashboard/models/course_card_model.js:179
+msgid "Starts: {start}"
+msgstr "Починається: {start}"
+
 #: lms/static/js/learner_dashboard/models/course_card_model.js:180
 msgid "Started {start}"
 msgstr "Почався {start}"
