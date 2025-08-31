@@ -13788,6 +13788,3 @@ msgid_plural "{earned}/{possible} points (graded)"
 msgstr[0] "{earned}/{possible} бал (оцінений)"
 msgstr[1] "{earned}/{possible} балів (оцінений)"
 
-#: lms/djangoapps/courseware/date_summary.py:273
-msgid "Course starts"
-msgstr ""
